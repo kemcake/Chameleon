@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|
-  s.name         		= "ChameleonFramework"
+  s.name         		= "ChameleonFrameworkTVOS"
   s.version     		= "2.0.3"
   s.summary      		= "Color Framework for iOS (Obj-C & Swift)"
   s.homepage    		= "https://github.com/ViccAlexander/Chameleon"
